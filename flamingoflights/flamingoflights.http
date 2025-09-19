@@ -1,0 +1,6 @@
+@flamingoflights_HostAddress = http://localhost:5220
+
+GET {{flamingoflights_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
